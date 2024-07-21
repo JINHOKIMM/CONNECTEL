@@ -21,3 +21,9 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
   
 ![현장결제 카페전](https://github.com/user-attachments/assets/46d50bcc-4763-4d1c-91e3-0304c2301582)
 
+**[카카오페이 결제]**
+* QR결제 또는 카톡결제를 선택한 후 결제를 진행합니다.
+* 결제 성공시 예약이 성공했다는 alert창이 뜹니다.
+* 해당 결제/예약건은 예약리스트에서 확인이 가능하게 됩니다.
+
+![카카오페이 결제](https://github.com/user-attachments/assets/8fe17004-c10b-4f4b-a5e0-93ecf344084c)

@@ -26,5 +26,6 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
 * 결제 성공시 예약이 성공했다는 alert창이 뜹니다.
 * 해당 결제/예약건은 예약리스트에서 확인이 가능하게 됩니다.
 
-![카카오페이 결제](https://github.com/user-attachments/assets/8fe17004-c10b-4f4b-a5e0-93ecf344084c)
-<img width="188" alt="카카오톡 결제톡" src="https://github.com/user-attachments/assets/3ced0693-9827-47fb-b5b1-b7cb3a3ef1da">
+| ![카카오페이 결제](https://github.com/user-attachments/assets/8fe17004-c10b-4f4b-a5e0-93ecf344084c) | ![카카오톡 결제톡](https://github.com/user-attachments/assets/3ced0693-9827-47fb-b5b1-b7cb3a3ef1da) |
+|:--:|:--:|
+| 카카오페이 결제 | 카카오톡 결제톡 |

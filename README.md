@@ -72,9 +72,13 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
 **[체크아웃]**
 * 고객이 체크아웃할 때 투숙하던 객실 클릭 후 체크아웃 버튼을 클릭합니다.
 * 해당 객실은 체크아웃 객실(빨간색박스)이 되며, 객실 청소를 진행하게 됩니다.
+* 해당 고객이 체크인/체크아웃 시간을 투숙한 객실정보와 함께 투숙리스트에서 확인할 수 있습니다.
 
 |![체크아웃](https://github.com/user-attachments/assets/2a0d7a98-762b-4ccf-a8cb-2ee5677de611) |
 |:--:|
 | 체크아웃 |
+
+<br>
+
 
 

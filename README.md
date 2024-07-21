@@ -73,11 +73,13 @@
 * 해당 객실은 체크아웃 객실(빨간색박스)이 되며, 객실 청소를 진행하게 됩니다.
 * 해당 고객이 체크인/체크아웃 시간을 투숙한 객실정보와 함께 투숙리스트에서 확인할 수 있습니다.
 
-|![체크아웃](https://github.com/user-attachments/assets/2a0d7a98-762b-4ccf-a8cb-2ee5677de611) |
-|:--:|
-| 체크아웃 |
+| ![체크아웃](https://github.com/user-attachments/assets/2a0d7a98-762b-4ccf-a8cb-2ee5677de611) | ![체크아웃시간](https://github.com/user-attachments/assets/4a3d2c32-8925-4072-89e7-bef76fc94b4f) |
+|:--:|:--:|
+| 체크아웃 | 투숙리스트 |
 
 <br>
+
+
 
 
 

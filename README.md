@@ -9,13 +9,15 @@
 <br><br>
 
 ## 🖥️ 개발 환경
-- **Back-end** : Java
-- **Front** : HTML/CSS, BootStrap, JavaScript, jQuery
-- **Framework** : Spring Boot Framework, Mybatis Framework
-- **DB** : Maria DB
-- **WAS** : Tomcat(웹서버가 따로 없어서 tomcat을 웹서버로 사용함)
-- **Infra** : Amazon Web Services
-- **버전관리** : GitHub,SourceTree
+- **Back-end**: Java
+- **Front-end**: HTML/CSS, Bootstrap, JavaScript, jQuery
+- **View**: JSP
+- **Framework**: Spring Boot, MyBatis
+- **DB**: MariaDB
+- **WAS**: Tomcat (웹서버가 따로 없어서 Tomcat을 웹서버로 사용함)
+- **Infra**: Amazon Web Services
+- **버전 관리**: GitHub, SourceTree
+
 
 <br><br>
 

@@ -19,7 +19,9 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
 * 선택한 투숙날짜의 총 가격과 예약가능 객실 수를 객실타입별로 출력합니다.
 * 예약자의 정보를 입력후 결제 요청 버튼을 클릭하면 카카오페이 API를 사용하여 결제요청을 보냅니다.
   
-![현장결제 카페전](https://github.com/user-attachments/assets/46d50bcc-4763-4d1c-91e3-0304c2301582)
+| ![현장결제 카페전](https://github.com/user-attachments/assets/46d50bcc-4763-4d1c-91e3-0304c2301582) |
+|:--:|
+|현장결제|
 
 **[카카오페이 결제]**
 * QR결제 또는 카톡결제를 선택한 후 결제를 진행합니다.

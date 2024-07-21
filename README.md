@@ -50,6 +50,7 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
 * 체크인이 가능한 객실(초록색박스)을 클릭 하면 오늘 체크인이 가능한 예약리스트가 출력됩니다.
 * 체크인하려는 예약자를 더블클릭 후 체크인을 진행합니다.
 * 체크인이 완료되면 해당 객실은 체크인 상태(하늘색박스)로 변경이 됩니다.
+* 체크인한 예약자는 투숙리스트에 추가됩니다.  
 
 | ![체크인](https://github.com/user-attachments/assets/e6c77b38-1cb9-4739-91df-bdc4c3b70e57) |
 |:--:|
@@ -65,4 +66,15 @@ https://github.com/JINHOKIMM/CONNECTEL/settings
 | ![객실 변경](https://github.com/user-attachments/assets/8d00389a-ec07-4b2b-8ab8-70c250890f6d) |
 |:--:|
 | 객실변경 |
+
+<br>
+
+**[체크아웃]**
+* 고객이 체크아웃할 때 투숙하던 객실 클릭 후 체크아웃 버튼을 클릭합니다.
+* 해당 객실은 체크아웃 객실(빨간색박스)이 되며, 객실 청소를 진행하게 됩니다.
+
+|![체크아웃](https://github.com/user-attachments/assets/2a0d7a98-762b-4ccf-a8cb-2ee5677de611) |
+|:--:|
+| 체크아웃 |
+
 

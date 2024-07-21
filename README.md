@@ -1,6 +1,5 @@
 ## 🏨 호텔 그룹웨어 + ERP 시스템 [CONNECTEL]
 ![readme첫사진](https://github.com/user-attachments/assets/ccf07eb5-ff86-4b24-aefa-e48570f6d538)
-https://github.com/JINHOKIMM/CONNECTEL/settings
 
 <br>
 

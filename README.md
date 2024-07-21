@@ -15,4 +15,5 @@
 
 ## 🛠️ 담당 구현 기능
 **[초기화면]**
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9e5e9926-28b5-46f9-91c1-b99d70e6a17e)
 

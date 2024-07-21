@@ -1,4 +1,4 @@
-![객실 변경](https://github.com/user-attachments/assets/dc0124b2-8b89-472a-9292-0aba26134e05)## 🏨 호텔 그룹웨어 + ERP 시스템 [CONNECTEL]
+## 🏨 호텔 그룹웨어 + ERP 시스템 [CONNECTEL]
 ![readme첫사진](https://github.com/user-attachments/assets/ccf07eb5-ff86-4b24-aefa-e48570f6d538)
 https://github.com/JINHOKIMM/CONNECTEL/settings
 
